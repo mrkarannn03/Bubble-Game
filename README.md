@@ -1,5 +1,5 @@
 <h1 >Bubble Game</h1><br>
-<p>this is a simple and fun Bubble Game created using HTML, CSS, and JavaScript.<br> The objective is to pop as many bubbles as you can before time runs out. The game showcases interactive animations, scoring, and responsive design.</p>
+<p>This is a simple and fun Bubble Game created using HTML, CSS, and JavaScript.<br>The objective is to pop as many bubbles as you can before time runs out. <br>The game showcases interactive animations, scoring, and responsive design.</p>
 <br><br>
 <h1>Features</h1><br>
 <p>Interactive Gameplay: Click on bubbles to pop them and score points.<br>
